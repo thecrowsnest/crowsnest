@@ -66,3 +66,6 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# Use Griddler to handle incoming mails
+gem 'griddler', '~> 1.0.0'
+gem 'griddler-mailgun', '~> 1.0.1'
